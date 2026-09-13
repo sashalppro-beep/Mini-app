@@ -16,7 +16,7 @@ const products = [
     { id: 3, name: 'Джинсы Slim Blue', price: 1890, category: 'Джинсы', img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=500' },
     { id: 4, name: 'Куртка Bomber', price: 2790, category: 'Куртки', img: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500' },
     { id: 5, name: 'Кепка Classic', price: 490, category: 'Аксессуары', img: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500' },
-    { id: 6, name: 'Кроссовки Runner', price: 3290, category: 'Обувь', img: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500' },
+    { id: 6, name: 'Кроссовки Flair', price: 1299, category: 'Обувь', img: 'file_000000004e0481f49f446dcad0ccbace.png' },
     { id: 7, name: 'Футболка White', price: 790, category: 'Футболки', img: 'https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500' },
     { id: 8, name: 'Худи Black', price: 1590, category: 'Худи', img: 'https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500' },
 ];
