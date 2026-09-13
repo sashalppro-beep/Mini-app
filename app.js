@@ -11,7 +11,7 @@ tg.expand();
 // img      — ссылка HTTPS или путь к файлу в репозитории
 // ============================================
 const products = [
-    { id: 1, name: 'Футболка Oversize Black', price: 890, category: 'Футболки', img: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500' },
+    { id: 1, name: 'Майка Flair', price: 499, category: 'Футболки', img: 'file_0000000055b8820a9d7fe1163755e8a1.png' },
     { id: 2, name: 'Худи Nike', price: 799, category: 'Худи', img: 'IMG_20260913_124224_923.jpg' },
     { id: 3, name: 'Джинсы Slim Blue', price: 1890, category: 'Джинсы', img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=500' },
     { id: 4, name: 'Куртка Bomber', price: 2790, category: 'Куртки', img: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500' },
