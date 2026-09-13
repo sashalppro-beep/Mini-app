@@ -7,7 +7,7 @@ tg.expand();
 // category — категория (должна совпадать с одной из в categories)
 // ============================================
 const products = [
-    { id: 1, name: 'Футболка Oversize', price: 1900, category: 'Футболки', img: 'b12d4490609f200b0073baf8f0fe4c79.jpg' },
+    { id: 1, name: 'Футболка Oversize', price: 1900, category: 'Футболки', img: 'Fafla.jpg' },
     { id: 2, name: 'Худи унисекс', price: 3500, category: 'Худи', img: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400' },
     { id: 3, name: 'Джинсы Slim', price: 4200, category: 'Джинсы', img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=400' },
     { id: 4, name: 'Куртка Bomber', price: 6800, category: 'Куртки', img: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400' },
