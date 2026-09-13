@@ -7,7 +7,7 @@ tg.expand();
 // category — категория (должна совпадать с одной из в categories)
 // ============================================
 const products = [
-    { id: 1, name: 'Футболка Oversize', price: 1900, category: 'Футболки', img: 'Fafla.jpg' },
+    { id: 1, name: 'Футболка Oversize', price: 1900, category: 'Футболки', img: 'https://www.google.com/search?q=%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0+%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B7&oq=%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0+%D0%BA%D0%BE&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDQwMzdqMGo0qAIOsAIB8QXDiY0EGueGAQ&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#sv=CAMScRoyKhBlLVNFZmpvRHZfdWw0clJNMg5TRWZqb0R2X3VsNHJSTToOWFczRkpoMldOTS13RU0gBCoxChtfWGtxbWFxMzlGYi1fd1BBUHJOU2xzQUVfNDASEGUtU0Vmam9Edl91bDRyUk0YADABSgQIARACGAcg3er7hQFKCBACGAEgAigB' },
     { id: 2, name: 'Худи унисекс', price: 3500, category: 'Худи', img: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400' },
     { id: 3, name: 'Джинсы Slim', price: 4200, category: 'Джинсы', img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=400' },
     { id: 4, name: 'Куртка Bomber', price: 6800, category: 'Куртки', img: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400' },
