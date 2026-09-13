@@ -12,7 +12,7 @@ tg.expand();
 // ============================================
 const products = [
     { id: 1, name: 'Футболка Oversize Black', price: 890, category: 'Футболки', img: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500' },
-    { id: 2, name: 'Худи Nike', price: 799, category: 'Худи', img: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500' },
+    { id: 2, name: 'Худи Nike', price: 799, category: 'Худи', img: 'IMG_20260913_124224_923.jpg' },
     { id: 3, name: 'Джинсы Slim Blue', price: 1890, category: 'Джинсы', img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=500' },
     { id: 4, name: 'Куртка Bomber', price: 2790, category: 'Куртки', img: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500' },
     { id: 5, name: 'Кепка Classic', price: 490, category: 'Аксессуары', img: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500' },
